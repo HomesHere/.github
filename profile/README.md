@@ -69,17 +69,3 @@ Copyright © 2024 HomesHere. All rights reserved.
 </div>
 ```
 
-### **Pinned Repositories 설정 추천**
-
-1. **core-service** (핵심 표시)
-2. **matching-engine-service** (AI 강조)
-3. **docs** (있다면 문서)
-4. **web-client** (나중에 추가)
-
-### **Organization 설정 추가 사항**
-
-**Display Name**: HomesHere (홈즈히어)
-
-**Description**: 
-```
-🏠 AI 기반 공공주택 청약 매칭 플랫폼 | Smart Public Housing Application Platform
