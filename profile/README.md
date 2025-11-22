@@ -104,8 +104,7 @@ We're a small team passionate about making public housing accessible to everyone
 ## 📫 Contact
 
 - **Email**: contact@homeshere.kr
-- **Website**: [homeshere.kr](https://homeshere.kr) (Coming Soon)
-- **Blog**: [tech.homeshere.kr](https://tech.homeshere.kr) (Tech Blog)
+- **Website**: [home-shere.com](https://home-shere.com) (Coming Soon)
 
 ## 📄 License
 
