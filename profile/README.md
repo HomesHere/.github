@@ -43,20 +43,20 @@
 
 🚧 **현재 개발 중** - 2024 Q1 Beta Launch 예정
 
-- [x] 프로젝트 설계
-- [x] 기술 스택 선정
+- [ ] 프로젝트 설계
+- [ ] 기술 스택 선정
 - [ ] MVP 개발 (진행 중)
 - [ ] Alpha 테스트
 - [ ] Beta 런칭
 
 ## 🤝 Contributing
 
-아직 프라이빗 개발 단계입니다. 곧 오픈소스로 전환 예정!
+아직 개발 단계입니다
 
 ## 📫 Contact
 
 - Email: contact@homeshere.kr
-- Website: [www.homeshere.kr](https://homeshere.kr) (준비 중)
+- Website: [www.homes-here.com](https://www.homes-here.com) (준비 중)
 
 ## 📜 License
 
